@@ -1,5 +1,7 @@
-# Data2Model - Data Cleaning and Machine Learning Simulator
+# Data2Model - Data Cleaning and Machine Learning Simulator (HackJMI 2025 Hackathon)
 Explanation Video-https://youtu.be/LetBYlFo5qc
+
+Uploaded at -: https://devfolio.co/projects/datamodel-5ed1
 ## Overview
 ## Home page
 ![WhatsApp Image 2025-05-16 at 21 58 36_b26b25ea](https://github.com/user-attachments/assets/2b429aed-f284-456b-8662-73569e3925b8)
