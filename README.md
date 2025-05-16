@@ -1,6 +1,18 @@
 # Data2Model - Data Cleaning and Machine Learning Simulator
-
+Explanation Video-https://youtu.be/LetBYlFo5qc
 ## Overview
+## Home page
+![WhatsApp Image 2025-05-16 at 21 58 36_b26b25ea](https://github.com/user-attachments/assets/2b429aed-f284-456b-8662-73569e3925b8)
+## Data Preprocessing
+![WhatsApp Image 2025-05-16 at 21 58 36_393c7d62](https://github.com/user-attachments/assets/74bfc637-cde0-4157-82bf-8419104ed363)
+## Model Training
+![WhatsApp Image 2025-05-16 at 21 58 37_4f6c060b](https://github.com/user-attachments/assets/8d5e911d-01a3-4ec7-bc76-115daa3dbc39)
+## Data Visualization
+![WhatsApp Image 2025-05-16 at 21 58 38_353e83a8](https://github.com/user-attachments/assets/fcbcd62e-3bba-47d5-ac8d-d44f274a125f)
+
+
+
+
 
 **Data2Model** is a user-friendly Streamlit web application designed to streamline the process of data exploration, cleaning, preprocessing, model training, and prediction in machine learning.  Whether you're a beginner experimenting with different algorithms or a data enthusiast looking for a quick and interactive tool, Data2Model provides a visual and intuitive interface to work with your datasets.
 
